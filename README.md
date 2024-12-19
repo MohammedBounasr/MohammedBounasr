@@ -61,7 +61,6 @@
 
 <img src="https://raw.githubusercontent.com/MohammedBounasr/MohammedBounasr/output/snake.svg" alt="Snake animation" />
 
-
 <!--
 **MohammedBounasr/MohammedBounasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
