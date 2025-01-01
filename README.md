@@ -6,7 +6,7 @@
   <a href="https://github.com/MohammedBounasr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="GitHub logo" />
   </a>
-  <a href="https://www.instagram.com/MohammedBounasr" target="_blank">
+  <a href="https://www.instagram.com/MED_BNSR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:mohammedbounasr2005@gmail.com" target="_blank">
